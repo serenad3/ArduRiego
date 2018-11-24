@@ -24,3 +24,7 @@ Codigo pruesto
 
 ------------------------
 fork-> https://github.com/mattbornski/Arduino-GCal-Relays ???
+
+sketch_nov24d.ino
+
+lee mi calendario OK
