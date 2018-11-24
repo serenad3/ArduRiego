@@ -5,7 +5,7 @@
 #include <Dhcp.h>
 
 // Determine your private Google calendar feed URL and fill in here:
-#define CALENDAR_FEED_URL "https://calendar.google.com/calendar/ical/ser3nad3%40gmail.com/private-bb83bac47b9495cfc22cf6cb79288573/basic.ics"
+#define CALENDAR_FEED_URL ""
 #define CALENDAR_FEED_URL_REQUEST_HEADERS "GET /" CALENDAR_FEED_URL " HTTP/1.1\n" "Host: proxy.bornski.com\n" "User-Agent: arduino-ethernet\n" "Connection: close\n"
 
 byte myMac[] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x66 };
