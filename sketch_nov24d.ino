@@ -8,7 +8,7 @@
 #define CALENDAR_FEED_URL ""
 #define CALENDAR_FEED_URL_REQUEST_HEADERS "GET /" CALENDAR_FEED_URL " HTTP/1.1\n" "Host: proxy.bornski.com\n" "User-Agent: arduino-ethernet\n" "Connection: close\n"
 
-byte myMac[] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x66 };
+byte myMac[] = { 0x15, 0x9B, 0x87, 0x2B, 0x0E, 0x98 };
 IPAddress myIp(192, 168, 1, 66);
 IPAddress myDns(192, 168, 1, 1);
 
