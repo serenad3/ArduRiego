@@ -13,7 +13,7 @@ Hardware propuesto
     Electrovalvulas
     Sensor de humedad
     Sensor de temperatura
-Codigo pruesto
+Codigo propuesto
     <get data google-calendar>
     <if(timeNOW=isEvent):openWater>
  
